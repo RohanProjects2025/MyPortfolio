@@ -106,6 +106,7 @@ body{
   padding:70px 7%;
   gap:50px;
   flex-wrap:wrap;
+  margin-top: 50px;
 }
 
 .hero-left{
@@ -114,13 +115,14 @@ body{
 }
 
 .badge{
-  display:inline-flex;
+  display:flex;
   align-items:center;
   gap:10px;
   background:#10182d;
   padding:12px 18px;
   border-radius:30px;
   margin-bottom:25px;
+  width: 300px;
 }
 
 .dot{
@@ -128,6 +130,13 @@ body{
   height:10px;
   border-radius:50%;
   background:#00ff88;
+  animation:pulse 1s infinite;
+}
+
+@keyframes pulse{
+  50%{
+    opacity:0.4;
+  }
 }
 
 .hero-left h1{
@@ -520,6 +529,14 @@ body{
 .project-content p{
   margin-top:15px;
   color:#cbd5e1;
+}
+
+.project-link{
+  margin-top:20px;
+  margin-left: 5px;
+  display:inline-block;
+  color:#7c5cff;
+  text-decoration:none;
 }
 
 .tags{
