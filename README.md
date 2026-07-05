@@ -37,31 +37,31 @@ A modern, fully responsive **Personal Portfolio Website** built using **HTML, CS
 
 ## About & Skills
 
-![About](Capture(1).PNG)
+![About](screeenshots/about.PNG)
 
 ---
 
 ## Internship Section
 
-![Internship](Capture1.PNG)
+![Internship](screenshots/internship.PNG)
 
 ---
 
 ## Projects Section
 
-![Projects](Capture2.PNG)
+![Projects](screenshots/project.PNG)
 
 ---
 
 ## Contact Section
 
-![Contact](Capture3.PNG)
+![Contact](screenshots/contact.PNG)
 
 ---
 
 ## Footer
 
-![Footer](Capture4.PNG)
+![Footer](screenshots/footer.PNG)
 
 ---
 
