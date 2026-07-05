@@ -247,7 +247,7 @@ in your browser.
 
 Java Full Stack Developer
 
-📧 mailto:rohanvmadane@gmail.com
+📧 rohanvmadane@gmail.com
 
 💼 [LinkedIn](https://www.linkedin.com/in/rohan-madane-6b06bb286)
 
