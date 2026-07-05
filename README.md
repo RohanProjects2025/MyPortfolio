@@ -199,7 +199,7 @@ https://github.com/RohanProjects2025/OnlingVotingApp
 ### 📞 Contact
 
 - Email - rohanvmadane@gmail.com
-- Phone - 9156567650
+- Phone - +919156567650
 - LinkedIn - https://www.linkedin.com/in/rohan-madane-6b06bb286
 - GitHub - https://github.com/RohanProjects2025
 
@@ -249,11 +249,9 @@ Java Full Stack Developer
 
 📧 rohdrvmadane@gmail.com
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/rohan-madane-6b06bb2860
 
 🐙 GitHub
-🐙 **GitHub**
-
 https://github.com/RohanProjects2025/MyPortfolio
 
 Portfolio
