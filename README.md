@@ -67,7 +67,7 @@ A modern, fully responsive **Personal Portfolio Website** built using **HTML, CS
 
 # 🛠️ Built With
 
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- HTML5
 - CSS3
 - JavaScript (ES6)
 - Font Awesome
