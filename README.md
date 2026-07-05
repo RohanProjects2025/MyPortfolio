@@ -251,10 +251,9 @@ Java Full Stack Developer
 
 💼 [LinkedIn](https://www.linkedin.com/in/rohan-madane-6b06bb2860)
 
-🐙 GitHub
-https://github.com/RohanProjects2025/MyPortfolio
+🐙 [GitHub](https://github.com/RohanProjects2025/MyPortfolio)
 
-Portfolio
+[Portfolio](https://rohanprojects2025.github.io/MyPortfolio/)
 
 ---
 
