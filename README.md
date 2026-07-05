@@ -31,7 +31,7 @@ A modern, fully responsive **Personal Portfolio Website** built using **HTML, CS
 
 ## Home Page
 
-![Home](Home.PNG)
+![Home](screenshots/home.PNG)
 
 ---
 
