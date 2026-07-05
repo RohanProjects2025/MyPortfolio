@@ -37,7 +37,7 @@ A modern, fully responsive **Personal Portfolio Website** built using **HTML, CS
 
 ## About & Skills
 
-![About](screeenshots/about.PNG)
+![About](screenshots/about.PNG)
 
 ---
 
@@ -49,7 +49,7 @@ A modern, fully responsive **Personal Portfolio Website** built using **HTML, CS
 
 ## Projects Section
 
-![Projects](screenshots/project.PNG)
+![Projects](screenshots/projects.PNG)
 
 ---
 
