@@ -4,7 +4,7 @@
 
 A modern, fully responsive **Personal Portfolio Website** built using **HTML, CSS, and JavaScript** to showcase my skills, projects, internships, and contact information.
 
-🔗 **<strong>Live Demo:</strong>** <a href="https://rohanprojects2025.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer">https://rohanprojects2025.github.io/MyPortfolio/</a>
+🔗 **Live Demo:** https://rohanprojects2025.github.io/MyPortfolio/
 
 🔗 **GitHub Repository:** https://github.com/RohanProjects2025/MyPortfolio
 
