@@ -126,6 +126,7 @@ Professional landing page with:
 - JDBC
 - Servlets
 - JSP
+- Thymeleaf
 - Spring
 - Spring Boot
 - REST APIs
