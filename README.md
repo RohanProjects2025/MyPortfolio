@@ -4,9 +4,9 @@
 
 A modern, fully responsive **Personal Portfolio Website** built using **HTML, CSS, and JavaScript** to showcase my skills, projects, internships, and contact information.
 
-🔗 **Live Demo:** https://rohanprojects2025.github.io/MyPortfolio/
+🔗 **Live Demo:** https://madanerohan.github.io/MyPortfolio/
 
-🔗 **GitHub Repository:** https://github.com/RohanProjects2025/MyPortfolio
+🔗 **GitHub Repository:** https://github.com/MadaneRohan/MyPortfolio
 
 ---
 
@@ -192,7 +192,7 @@ A complete Online Voting Web Application developed using
 - Responsive UI
 
 GitHub:
-https://github.com/RohanProjects2025/OnlingVotingApp
+https://github.com/MadaneRohan/OnlingVotingApp
 
 ---
 
@@ -201,7 +201,7 @@ https://github.com/RohanProjects2025/OnlingVotingApp
 - Email - rohanvmadane@gmail.com
 - Phone - +919156567650
 - LinkedIn - https://www.linkedin.com/in/rohan-madane-6b06bb286
-- GitHub - https://github.com/RohanProjects2025
+- GitHub - https://github.com/MadaneRohan
 
 ---
 
@@ -251,9 +251,9 @@ Java Full Stack Developer
 
 💼 [LinkedIn](https://www.linkedin.com/in/rohan-madane-6b06bb286)
 
-🐙 [GitHub](https://github.com/RohanProjects2025/MyPortfolio)
+🐙 [GitHub](https://github.com/MadaneRohan/MyPortfolio)
 
-[Portfolio](https://rohanprojects2025.github.io/MyPortfolio/)
+[Portfolio](https://madanerohan.github.io/MyPortfolio/)
 
 ---
 
